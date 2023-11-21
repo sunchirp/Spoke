@@ -564,7 +564,7 @@ _July 2020:_ Release 7.1 is a testament to the community working together -- sev
 
 ### Bugs fixed
 * weird [Object object] when tabbing into canned response text issue - @eamouzou
-* simplified docker-compose file - @matteosb
+* simplified docker compose file - @matteosb
 * fix action handler select menu in Campaign Admin Interactions section - @matteosb
 
 ### Appreciations
